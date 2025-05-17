@@ -9,9 +9,9 @@ const HomePage = () => {
     <div>
       <HeroSection />
       <HistorySection />
-      <ArticlesSection />
-      <VideoSection />
       <StatsSection />
+      <VideoSection />
+      <ArticlesSection />
     </div>
   );
 };
